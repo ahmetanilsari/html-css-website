@@ -1,0 +1,215 @@
+/* SAMET YILMAZ - 2014010217001 */
+body{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	}
+	
+#anasayfa{
+	/*background-color:#FF0004;*/
+	width:1000px;
+	height:600px;
+	margin:auto;
+	position:relative;
+	}
+	
+.header{
+	background-color:#000000;
+	font-size:50px;
+	color:#FFFFFF;
+	padding-left:20px;
+	height:100px;
+	padding-top:25px;
+	}
+.header span{
+	color:#FFFFFF;
+	font-size:14px;
+	float:right;
+	padding-top:40px;
+	padding-right:20px;
+	}
+	
+.menu{
+	text-align:left;
+	color:#000000;
+	font-weight:bold;
+	font-size:14px;
+	padding: 5px 10px 5px 10px;
+	}
+.menu a{
+	color:#000000;
+	text-decoration: none;
+	}
+.menu a:hover{
+	color:#DF9100;
+	text-decoration: none;
+	}
+.menu span{
+	float:right;
+	}
+	
+.serit{
+	background-color:#000000;
+	width:100%;
+	height:20px;
+	}
+	
+.content{
+	height:600px;
+	}
+.content div{
+	float:left;
+	padding:20px;
+	}
+		
+.footer{
+	background-color:#000000;
+	width:100%;
+	height:20px;
+	font-size:12px;
+	color:#FFFFFF;
+	padding-bottom:0px;
+	text-align:center;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	}
+.footeryorum{
+	background-color:#000000;
+	width:100%;
+	height:20px;
+	font-size:12px;
+	color:#FFFFFF;
+	padding-bottom:0px;
+	margin-top:20px;
+	text-align:center;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	}
+	
+#oturumac{
+	background-color:#FFFFFF;
+	width:400px;
+	height:200px;
+	margin:auto;
+	}
+.oturumacp{
+	color:#FFFFFF;
+	font-weight:bold;
+	text-align:center;
+	margin-top:150px;
+	position:relative;
+	font-size:30px;
+	}		
+#oturumac table{
+	background-color:#FFFFFF;
+	width:400px;
+	height:100px;
+	margin-top:20px;
+	padding-top:40px;
+	padding-left:60px;
+	}
+.oturumacbutton{
+	font-weight:bold;
+	width:83%;
+	}
+#oturumac p a{
+	text-decoration:none;
+	color:#BC0000;
+	font-weight:bold;
+	font-size:14px;
+	}
+	
+.harita{
+	width:520px;
+	height:360px;
+	margin-top:50px;
+	margin-left:240px;
+	background-image:url(http://www.kgm.gov.tr/SiteCollectionImages/KGMimages/Haritalar/turistik.jpg);
+	background-position: -3200px -600px;
+	}
+	
+	
+.kisiler{
+	height:500px;
+	}
+.kisiler div{
+	float:left;
+	padding:15px;
+	}
+.kisiler div p{
+	margin-top:0px;
+	text-align:center;
+	}
+	
+.kisidetay{
+	height:300px;
+	padding:20px;
+	}
+.kisidetaytd{
+	padding-left:100px;
+	}
+.kisidetaytd2{
+	padding-left:50px;
+	}
+		
+.yorum{
+	width:100%;
+	height:200px;
+	}
+
+.fotolar{
+	height:500px;
+	}
+.fotolar img{
+	height:110px;
+	width:auto;
+	}
+.fotolar div{
+	float:left;
+	padding:15px;
+	}
+.fotolar div p{
+	margin-top:0px;
+	text-align:center;
+	}
+	
+.forumtarih{
+	font-style:italic;
+	font-size:10px;
+	}
+	
+.kisidetay table tr{
+	padding-bottom:20px;
+	}
+	
+#kayitol{
+	background-color:#FFFFFF;
+	width:500px;
+	height:auto;
+	margin:auto;
+	}
+.kayitolp{
+	color:#FFFFFF;
+	font-weight:bold;
+	text-align:center;
+	margin-top:75px;
+	position:relative;
+	font-size:30px;
+	}		
+#kayitol table{
+	background-color:#FFFFFF;
+	width:auto;
+	height:100px;
+	margin-top:20px;
+	padding-top:40px;
+	padding-left:60px;
+	}
+.kayitolbutton{
+	font-weight:bold;
+	width:83%;
+	}
+#kayitol p a{
+	text-decoration:none;
+	color:#BC0000;
+	font-weight:bold;
+	font-size:14px;
+	}
+.adressehir{
+	width:100%;
+	}
